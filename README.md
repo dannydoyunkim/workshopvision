@@ -1,4 +1,4 @@
-"# workshopvision"/n
+"# workshopvision"\n
 "# computer vision course workshop"
 
 "# To prepare development environment"
