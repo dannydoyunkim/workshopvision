@@ -1,5 +1,5 @@
-"# workshopvision"
-"# computer vision course workshop/n"
+"# workshopvision"/n
+"# computer vision course workshop"
 
 "# To prepare development environment"
 "# 1. Preparing AWS"
